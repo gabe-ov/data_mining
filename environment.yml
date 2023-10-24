@@ -1,4 +1,4 @@
-name: min-dados
+name: data-mining
 channels:
   - defaults
 dependencies:
